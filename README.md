@@ -1,6 +1,6 @@
 ----- Machine Learning Model Comparison Tool -----
 
-This is a streamlit application for comparing linear regression, random forest, and neural network models. 
+This is a streamlit application for comparing lasso regression, random forest, and neural network models. 
 It compares the performance of these models when tasked with predicting housing prices using their qualities.
 
 To run the app:
@@ -11,4 +11,5 @@ To run the app:
 5. Run the app with streamlit run main.py
 
 
-NOTE: Tensorflow is not yet compatible with Python 3.12 and up. 
+NOTE: Tensorflow is not yet compatible with Python 3.12 and up. If you are using a newer version, you can remove
+tensorflow from the requirements and test without neural network. 
