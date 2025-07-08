@@ -2,6 +2,7 @@
 
 This is a streamlit application for comparing lasso regression, random forest, and neural network models. 
 It compares the performance of these models when tasked with predicting housing prices using their qualities.
+Users can upload their own CSV or use one of two built in datasets. 
 
 To run the app:
 1. Clone the repository
