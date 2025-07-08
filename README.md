@@ -9,3 +9,6 @@ To run the app:
 3. Activate it with streamlit-env\Scripts\activate
 4. Install dependencies with pip install -r requirements.txt
 5. Run the app with streamlit run main.py
+
+
+NOTE: Tensorflow is not yet compatible with Python 3.12 and up. 
