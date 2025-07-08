@@ -1,6 +1,6 @@
 ----- Machine Learning Model Comparison Tool -----
 
-This is a streamlit application for comparing linear regression, random forest, and neural network models. 
+This is a streamlit application for comparing lasso regression, random forest, and neural network models. 
 It compares the performance of these models when tasked with predicting housing prices using their qualities.
 
 To run the app:
