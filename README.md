@@ -11,4 +11,5 @@ To run the app:
 5. Run the app with streamlit run main.py
 
 
-NOTE: Tensorflow is not yet compatible with Python 3.12 and up. 
+NOTE: Tensorflow is not yet compatible with Python 3.12 and up. If you are using a newer version, you can remove
+tensorflow from the requirements and test without neural network. 
