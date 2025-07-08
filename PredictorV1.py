@@ -83,7 +83,7 @@ model.add(Dense(100, input_shape=input_shape, activation='relu'))
 model.add(Dense(1000, activation='relu'))
 
 # Add a dense layer with 1 neuron and linear activation function as the output layer
-model.add(Dense(1, activation='linear'))
+model.add(Dense(1, activation='relu'))
 
 # Compile the model using mean absolute error as the loss function and Adam optimizer
 model.compile(loss='mae', optimizer='adam')
